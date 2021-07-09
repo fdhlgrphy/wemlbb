@@ -7,7 +7,7 @@ function welcomeMsg() {
     const WA = `<a href="https://api.whatsapp.com/send?phone=6288231715470?text=Bang+Bagi+Bokep" target="_blank">whatsapp</a>`;
     const githubGw = `<a href="https://github.com/mann-x/" target="_blank">github</a>`
 
-    const msg1 = `<p class="animation mb-0 text-truncate">JOKI, TOP UP & GIFT SKIN ML di ${takapedia} ya [StevenJohns]</p>`;
+    const msg1 = `<p class="animation mb-0 text-truncate">JOKI, TOP UP & GIFT SKIN ML di ${takapedia} ya [StevenJohannes]</p>`;
     const msg2 = `<p class="animation mb-0 text-truncate">Hubungi Gw Di IG: ${IG} / WA: ${WA}</p>`;
     const msg3 = `<p class="animation mb-0 text-truncate">Inget! WR Sebatas Angka Ya.</p>`;
     const msg4 = `<p class="animation mb-0 text-truncate">Follow ${githubGw} gw juga ya</p>`;
